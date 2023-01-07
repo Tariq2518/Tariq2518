@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200"/>
 </div>
-<br/>
 <h1 align="center">Hi 👋, I'm Tariq Hussain</h1>
 <h3 align="center">I am Senior Android Engineer | Software Engineer</h3>
 
