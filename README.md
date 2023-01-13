@@ -60,4 +60,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tariq2518&show_icons=true&locale=en" alt="tariq2518" /></p>
 
+[![Tariq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tariq2518)]
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tariq2518&" alt="tariq2518" /></p>
