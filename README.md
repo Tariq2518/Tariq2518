@@ -29,7 +29,7 @@
 <a href="https://stackoverflow.com/users/15536371" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15536371" height="30" width="40" /></a>
 </p>
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tariq2518)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tariq2518&repo=tariq2518.github.io)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
