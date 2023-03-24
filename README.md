@@ -12,7 +12,7 @@
 
 <p align="center"> <a href="https://twitter.com/tariqhpk" target="blank"><img src="https://img.shields.io/twitter/follow/tariqhpk?logo=twitter&style=for-the-badge" alt="tariqhpk" /></a> </p>
 
-- 🔭 I’m currently working at **Metric App**
+- 🔭 I’m currently working at **Metric**
 
 - 🌱 I’m currently learning **Jetpack Compose and KMM**
 
