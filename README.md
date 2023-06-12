@@ -1,3 +1,12 @@
+<a href="#">
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3d2337&height=120&section=header"/>
+</a>
+
+
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d2337&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+Tariq+Hussain;Let%27s+create+awesome+projects!+ツ)
+
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200"/>
 </div>
