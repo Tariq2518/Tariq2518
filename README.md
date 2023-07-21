@@ -10,7 +10,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/llarwdtFqG63IlqUR1/giphy.gif" width="200"/>
 </div>
-<img src="https://github.com/Tariq2518/Tariq2518/blob/58bca523fc28d7d222846aed27ac165fa404305c/banner.png"/>
+<img src="https://github.com/Tariq2518/Tariq2518/blob/fe80a9233667077f51420b20f4789ac5d1ea3c4d/banner%20(2).png"/>
 
 <h1 align="center">Hi 👋, I'm Tariq Hussain</h1>
 <h3 align="center">I am Senior Android Engineer | Software Engineer</h3>
