@@ -66,7 +66,7 @@
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariq2518&show_icons=true&locale=en&layout=compact" alt="tariq2518" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tariq2518&show_icons=true&locale=en" alt="tariq2518" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tariq2518&show_icons=true&locale=en" alt="tariq2518" /></p>
 
