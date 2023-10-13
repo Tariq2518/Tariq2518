@@ -21,6 +21,8 @@
 
 <p align="center"> <a href="https://twitter.com/tariqhpk" target="blank"><img src="https://img.shields.io/twitter/follow/tariqhpk?logo=twitter&style=for-the-badge" alt="tariqhpk" /></a> </p>
 
+[![An image of @tariq2518's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tariq2518)](https://holopin.io/@tariq2518)
+
 
 - 🔭 I’m currently working at **Metric**
 
