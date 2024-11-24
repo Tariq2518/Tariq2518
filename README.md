@@ -13,7 +13,7 @@
 <img src="https://github.com/Tariq2518/Tariq2518/blob/d83bbc6978b856a7b53bdd6711c7f4a4da5ffca5/banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Tariq Hussain</h1>
-<h3 align="center">I am Senior Android Engineer | Software Engineer</h3>
+<h3 align="center">I am Software Enginneer iii (Mobile - Android, iOS)</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tariq2518&label=Profile%20views&color=0e75b6&style=flat" alt="tariq2518" /> </p>
 
